@@ -5,3 +5,28 @@ body {
   margin: 0;
 }
 /* .............defining landing page section */
+.img1 {
+  min-height: 100vh;
+  background: url('./images/pexels-photo-373912.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+}
+header {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+
+  color: #fff;
+  width: 100%;
+  font-size: 27px;
+  letter-spacing: 8px;
+}
+span {
+  padding: 20px;
+  background-color: #111;
+  text-align: center;
+}
