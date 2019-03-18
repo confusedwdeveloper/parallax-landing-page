@@ -78,3 +78,9 @@ main {
 .img-3 span, .img-2 span {
   background-color: transparent;
 }
+/* .... media query.  */
+@media (max-width: 600px) {
+  .img1, .img-2, .img-3 {
+    background-attachment: scroll;
+  }
+}
