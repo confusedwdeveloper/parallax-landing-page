@@ -65,3 +65,16 @@ main {
   background-color: #282e34;
   color: #ddd;
 }
+.img-3 {
+  background: url('./images/pexels-photo-1034662.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  background-position: center;
+  min-height: 400px;
+  opacity: 0.70;
+}
+.img-3 span, .img-2 span {
+  background-color: transparent;
+}
