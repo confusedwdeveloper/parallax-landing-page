@@ -30,3 +30,16 @@ span {
   background-color: #111;
   text-align: center;
 }
+
+/* .............Section One...................... */
+main {
+  padding: 0;
+  margin: 0;
+}
+.light-section {
+  text-align: center;
+  padding: 50px 80px;
+  /* opacity: 0.75; */
+  background-color: #f4f4f4;
+  color: #666;
+}
