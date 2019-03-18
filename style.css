@@ -58,3 +58,10 @@ main {
   font-size: 27px;
   letter-spacing: 8px;
 }
+.dark-section {
+  text-align: center;
+  padding: 50px 80px;
+  /* opacity: 0.75; */
+  background-color: #282e34;
+  color: #ddd;
+}
